@@ -1,0 +1,46 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment files
+.env
+.env.*
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Coverage
+coverage/
+
+# Compiled output
+*.tsbuildinfo
+
+# Mac system files
+Icon?
+
+# Angular build artifacts
+/.angular/cache
+
+# Docs output (if generated locally)
+/docs/
+
+# Misc
+*.log
+
+# Optional: ignore local public assets if not versioned
+# /public/
+.DS_Store
