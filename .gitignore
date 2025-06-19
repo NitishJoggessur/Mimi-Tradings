@@ -35,9 +35,6 @@ Icon?
 # Angular build artifacts
 /.angular/cache
 
-# Docs output (if generated locally)
-/docs/
-
 # Misc
 *.log
 
